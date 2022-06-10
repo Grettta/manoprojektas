@@ -71,7 +71,7 @@ get_header();
 
             <div class="col-md-6">
                 <div class="post-media wow fadeIn">
-                    <img src="/uploads/about_02.jpg" alt="" class="img-responsive img-rounded">
+                    <img src="/projektas/wp-content/themes/projektas/uploads/about_02.jpg" alt="" class="img-responsive img-rounded">
                 </div><!-- end media -->
             </div><!-- end col -->
         </div><!-- end row -->
@@ -79,7 +79,7 @@ get_header();
 </div><!-- end section -->
 
 <!--PATIRTIS ĮVYKDYTI PROJEKTAI-->
-<div class="parallax section parallax-off" data-stellar-background-ratio="0.9" style="background-image:url('uploads/parallax_04.jpg');">
+<div class="parallax section parallax-off" data-stellar-background-ratio="0.9" style="background-image:url('/projektas/wp-content/themes/projektasuploads/parallax_04.jpg');">
     <div class="container">
         <div class="row text-center stat-wrap">
             <div class="col-md-3 col-sm-6 col-xs-12">
